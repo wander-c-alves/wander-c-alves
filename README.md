@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Wanderley Costa Alves 👋
 
-<!--
-**wander-c-alves/wander-c-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho há mais de 10 anos com gestão, controle e segurança (SST), e hoje estou mergulhando no mundo do **Desenvolvimento de Software**. Atualmente, curso Análise e Desenvolvimento de Sistemas e foco meus estudos em **Python** e **Front-End**.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Python (Back-end), HTML5, CSS3, JavaScript (Front-end).
+- **Dados:** Power BI e análise de processos.
+- **Ferramentas:** Git, GitHub, VS Code, Trello (Metodologias Ágeis).
+- **Infra:** Noções de Redes e Protocolos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 No momento estou:
+- Aprofundando em **Python Avançado** na Udemy.
+- Estudando para a **Formação GitHub Certification** na DIO.
+- Praticando lógica de programação e versionamento de projetos.
+
+### 💼 Experiência em Destaque
+Minha vivência como Técnico de Segurança do Trabalho me deu uma base sólida em **resolução de problemas, trabalho em equipe e visão analítica**, competências que aplico diretamente na criação de códigos limpos e organizados.
+
+---
+
+📫 **Como me encontrar:**
+- ✉️ **Email:** wander.campinas01@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wanderley-costa-alves-05489011a)
