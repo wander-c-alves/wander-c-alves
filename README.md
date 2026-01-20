@@ -10,7 +10,7 @@ Trabalho há mais de 10 anos com gestão, controle e segurança (SST), e hoje es
 
 ### 📚 No momento estou:
 - Aprofundando em **Python Avançado** na Udemy.
-- Estudando para a **Formação GitHub Certification** na DIO.
+- Estudando **Front-end** na Udemy.
 - Praticando lógica de programação e versionamento de projetos.
 
 ### 💼 Experiência em Destaque
